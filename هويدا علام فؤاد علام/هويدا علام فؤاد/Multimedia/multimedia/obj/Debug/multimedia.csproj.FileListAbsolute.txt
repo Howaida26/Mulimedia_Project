@@ -75,3 +75,6 @@ D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Modification\multimedia - Copy\multimedia\o
 D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Modification\multimedia - Copy\multimedia\obj\Debug\multimedia.csproj.GenerateResource.Cache
 D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Modification\multimedia - Copy\multimedia\obj\Debug\multimedia.Form1.resources
 D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Modification\multimedia - Copy\multimedia\obj\Debug\multimedia.VR.resources
+C:\Users\DELL\Desktop\هويدا علام فؤاد علام\Multimedia\multimedia\bin\Debug\multimedia.exe.config
+C:\Users\DELL\Desktop\هويدا علام فؤاد علام\Multimedia\multimedia\obj\Debug\multimedia.exe
+C:\Users\DELL\Desktop\هويدا علام فؤاد علام\Multimedia\multimedia\obj\Debug\multimedia.pdb

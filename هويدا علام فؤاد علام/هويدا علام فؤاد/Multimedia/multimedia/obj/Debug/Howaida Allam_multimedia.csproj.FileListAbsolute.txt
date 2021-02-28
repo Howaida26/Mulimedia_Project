@@ -1,0 +1,3 @@
+C:\Users\DELL\Desktop\هويدا علام فؤاد علام\Multimedia\multimedia\bin\Debug\multimedia.exe.config
+C:\Users\DELL\Desktop\هويدا علام فؤاد علام\Multimedia\multimedia\obj\Debug\multimedia.exe
+C:\Users\DELL\Desktop\هويدا علام فؤاد علام\Multimedia\multimedia\obj\Debug\multimedia.pdb
