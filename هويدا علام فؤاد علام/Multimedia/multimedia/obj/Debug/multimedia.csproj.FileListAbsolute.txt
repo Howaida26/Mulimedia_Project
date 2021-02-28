@@ -1,0 +1,77 @@
+E:\4 rab3a\multimedia\multimedia\multimedia\bin\Debug\multimedia.exe.config
+E:\4 rab3a\multimedia\multimedia\multimedia\bin\Debug\multimedia.exe
+E:\4 rab3a\multimedia\multimedia\multimedia\bin\Debug\multimedia.pdb
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.main.resources
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.Properties.Resources.resources
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.rlc.resources
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.csproj.GenerateResource.Cache
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.exe
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.pdb
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.rlc_decode.resources
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.csprojResolveAssemblyReference.cache
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.data_show.resources
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.shanon.resources
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.huffman.resources
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.arth.resources
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.adabtive_hufman.resources
+E:\4 rab3a\multimedia\multimedia - Copy\multimedia\bin\Debug\multimedia.exe.config
+E:\4 rab3a\multimedia\multimedia - Copy\multimedia\obj\Debug\multimedia.exe
+E:\4 rab3a\multimedia\multimedia - Copy\multimedia\obj\Debug\multimedia.pdb
+E:\4 rab3a\multimedia\multimedia - Copy\multimedia\obj\Debug\multimedia.csprojResolveAssemblyReference.cache
+E:\4 rab3a\multimedia\multimedia - Copy\multimedia\obj\Debug\multimedia.adabtive_hufman.resources
+E:\4 rab3a\multimedia\multimedia - Copy\multimedia\obj\Debug\multimedia.data_show.resources
+E:\4 rab3a\multimedia\multimedia - Copy\multimedia\obj\Debug\multimedia.huffman.resources
+E:\4 rab3a\multimedia\multimedia - Copy\multimedia\obj\Debug\multimedia.arth.resources
+E:\4 rab3a\multimedia\multimedia - Copy\multimedia\obj\Debug\multimedia.main.resources
+E:\4 rab3a\multimedia\multimedia - Copy\multimedia\obj\Debug\multimedia.Properties.Resources.resources
+E:\4 rab3a\multimedia\multimedia - Copy\multimedia\obj\Debug\multimedia.rlc.resources
+E:\4 rab3a\multimedia\multimedia - Copy\multimedia\obj\Debug\multimedia.shanon.resources
+E:\4 rab3a\multimedia\multimedia - Copy\multimedia\obj\Debug\multimedia.csproj.GenerateResource.Cache
+E:\4 rab3a\multimedia\multimedia - Copy\multimedia\bin\Debug\multimedia.exe
+E:\4 rab3a\multimedia\multimedia - Copy\multimedia\bin\Debug\multimedia.pdb
+E:\New folder\multimedia - Copy\multimedia\bin\Debug\multimedia.exe.config
+E:\New folder\multimedia - Copy\multimedia\obj\Debug\multimedia.exe
+E:\New folder\multimedia - Copy\multimedia\obj\Debug\multimedia.pdb
+E:\New folder\multimedia - Copy\multimedia\bin\Debug\multimedia.exe
+E:\New folder\multimedia - Copy\multimedia\bin\Debug\multimedia.pdb
+E:\New folder\multimedia - Copy\multimedia\obj\Debug\multimedia.csprojResolveAssemblyReference.cache
+E:\New folder\multimedia - Copy\multimedia\obj\Debug\multimedia.adabtive_hufman.resources
+E:\New folder\multimedia - Copy\multimedia\obj\Debug\multimedia.data_show.resources
+E:\New folder\multimedia - Copy\multimedia\obj\Debug\multimedia.huffman.resources
+E:\New folder\multimedia - Copy\multimedia\obj\Debug\multimedia.arth.resources
+E:\New folder\multimedia - Copy\multimedia\obj\Debug\multimedia.main.resources
+E:\New folder\multimedia - Copy\multimedia\obj\Debug\multimedia.Properties.Resources.resources
+E:\New folder\multimedia - Copy\multimedia\obj\Debug\multimedia.rlc.resources
+E:\New folder\multimedia - Copy\multimedia\obj\Debug\multimedia.shanon.resources
+E:\New folder\multimedia - Copy\multimedia\obj\Debug\multimedia.csproj.GenerateResource.Cache
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Project Multimedia\New folder\multimedia - Copy\multimedia\bin\Debug\multimedia.exe.config
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Project Multimedia\New folder\multimedia - Copy\multimedia\obj\Debug\multimedia.exe
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Project Multimedia\New folder\multimedia - Copy\multimedia\obj\Debug\multimedia.pdb
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Project Multimedia\New folder\multimedia - Copy\multimedia\bin\Debug\multimedia.exe
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Project Multimedia\New folder\multimedia - Copy\multimedia\bin\Debug\multimedia.pdb
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Project Multimedia\New folder\multimedia - Copy\multimedia\obj\Debug\multimedia.csprojResolveAssemblyReference.cache
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Project Multimedia\New folder\multimedia - Copy\multimedia\obj\Debug\multimedia.adabtive_hufman.resources
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Project Multimedia\New folder\multimedia - Copy\multimedia\obj\Debug\multimedia.data_show.resources
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Project Multimedia\New folder\multimedia - Copy\multimedia\obj\Debug\multimedia.huffman.resources
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Project Multimedia\New folder\multimedia - Copy\multimedia\obj\Debug\multimedia.arth.resources
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Project Multimedia\New folder\multimedia - Copy\multimedia\obj\Debug\multimedia.main.resources
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Project Multimedia\New folder\multimedia - Copy\multimedia\obj\Debug\multimedia.Properties.Resources.resources
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Project Multimedia\New folder\multimedia - Copy\multimedia\obj\Debug\multimedia.rlc.resources
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Project Multimedia\New folder\multimedia - Copy\multimedia\obj\Debug\multimedia.shanon.resources
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Project Multimedia\New folder\multimedia - Copy\multimedia\obj\Debug\multimedia.csproj.GenerateResource.Cache
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Modification\multimedia - Copy\multimedia\bin\Debug\multimedia.exe.config
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Modification\multimedia - Copy\multimedia\obj\Debug\multimedia.exe
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Modification\multimedia - Copy\multimedia\obj\Debug\multimedia.pdb
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Modification\multimedia - Copy\multimedia\bin\Debug\multimedia.exe
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Modification\multimedia - Copy\multimedia\bin\Debug\multimedia.pdb
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Modification\multimedia - Copy\multimedia\obj\Debug\multimedia.csprojResolveAssemblyReference.cache
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Modification\multimedia - Copy\multimedia\obj\Debug\multimedia.adabtive_hufman.resources
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Modification\multimedia - Copy\multimedia\obj\Debug\multimedia.data_show.resources
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Modification\multimedia - Copy\multimedia\obj\Debug\multimedia.huffman.resources
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Modification\multimedia - Copy\multimedia\obj\Debug\multimedia.LZW.resources
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Modification\multimedia - Copy\multimedia\obj\Debug\multimedia.main.resources
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Modification\multimedia - Copy\multimedia\obj\Debug\multimedia.Properties.Resources.resources
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Modification\multimedia - Copy\multimedia\obj\Debug\multimedia.rlc.resources
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Modification\multimedia - Copy\multimedia\obj\Debug\multimedia.csproj.GenerateResource.Cache
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Modification\multimedia - Copy\multimedia\obj\Debug\multimedia.Form1.resources
+D:\FCI_4\Multimedia_Dr Yasser\Pro MM\Modification\multimedia - Copy\multimedia\obj\Debug\multimedia.VR.resources
